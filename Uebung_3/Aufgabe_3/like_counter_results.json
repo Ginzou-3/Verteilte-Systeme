@@ -1,0 +1,50 @@
+[
+  {
+    "workers": 1,
+    "likes_sum": 1000,
+    "min_likes": 86,
+    "max_likes": 112,
+    "errors": 0,
+    "duration": 2.0052618980407715
+  },
+  {
+    "workers": 2,
+    "likes_sum": 2000,
+    "min_likes": 187,
+    "max_likes": 222,
+    "errors": 0,
+    "duration": 1.9118893146514893
+  },
+  {
+    "workers": 4,
+    "likes_sum": 4000,
+    "min_likes": 349,
+    "max_likes": 422,
+    "errors": 0,
+    "duration": 2.05692982673645
+  },
+  {
+    "workers": 8,
+    "likes_sum": 8000,
+    "min_likes": 762,
+    "max_likes": 853,
+    "errors": 0,
+    "duration": 3.3649818897247314
+  },
+  {
+    "workers": 16,
+    "likes_sum": 16000,
+    "min_likes": 1492,
+    "max_likes": 1641,
+    "errors": 0,
+    "duration": 6.0996856689453125
+  },
+  {
+    "workers": 32,
+    "likes_sum": 32000,
+    "min_likes": 3074,
+    "max_likes": 3354,
+    "errors": 0,
+    "duration": 11.319303512573242
+  }
+]
